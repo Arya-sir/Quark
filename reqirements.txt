@@ -1,5 +1,0 @@
-Flask
-requests
-gTTS
-flask-cors
-gunicorn
